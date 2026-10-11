@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Arun Prakash
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Systems+Engineering+%7C+Linux;Building+Intelligent+Systems;Exploring+AI+Infrastructure" alt="Typing SVG" />
+</p>
+
 ### 💻 AI/ML Enthusiast | 🐧 Systems Engineering | ☁️ Infrastructure
 
 I'm a final-year Integrated M.Sc. Computer Science (AI & ML) student interested in building intelligent systems and exploring the infrastructure behind reliable software.
