@@ -75,7 +75,7 @@ Deep-learning framework for estimating the Remaining Useful Life (RUL) of turbof
   <a href="https://github.com/aruneiii01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="ADD_YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/arun-prakash-s-016136429/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
